@@ -185,7 +185,7 @@ nav ul li a{
 }
 .feature-text p{
     padding: 0 20px;
-    text-align: initial;
+    text-align: justify;
     font-size: 20px;
 }
 .feature-text a p{
