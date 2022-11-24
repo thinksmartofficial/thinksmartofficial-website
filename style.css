@@ -504,7 +504,7 @@ hr{
 }
 .about-text p{
     padding: 0 20px;
-    text-align: initial;
+    text-align: justify;
     font-size: 17px;
 }
 .about-text li{
